@@ -1,0 +1,7 @@
+# 忽略 weights 和 data 文件夹及其所有内容
+weights/
+data/
+# 如果你想确保即使里面有内容也不被提交，可以添加以下保护规则：
+**/weights/*
+**/data/*
+
